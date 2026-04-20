@@ -23,7 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("ၶူဝ်းၵုၼ်ႇ"),
+        title: const Text("ၶူဝ်းၶွင်ဢၼ်သိုဝ်ႉဝႆႉ"),
         actions: [
           IconButton(
             onPressed: () async {
